@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiPrimerApp</string>
+    <string name="lb_pregunta">¿Qué número es mayor?</string>
+    <string name="btn_click">CALCULA MAYOR!</string>
+    <string name="numero1">Escribe el primer número:</string>
+    <string name="numero2">Escribe el segundo número:</string>
+</resources>
